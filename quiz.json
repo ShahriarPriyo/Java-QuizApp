@@ -1,0 +1,4 @@
+[
+{"question":"What is the primary goal of manual testing?","option 1":"To find all bugs in the software","option 2":" To ensure the software meets the requirements","option 3":"To speed up the testing process","option 4":"To replace automated testing completely","answerkey":2},
+{"question":"What is the purpose of a test case in manual testing?","option 1":"To document the testing process","option 2":"To execute the test script","option 3":"To identify defects in the software","option 4":"To create automated test scenarios","answerkey":1}
+]
